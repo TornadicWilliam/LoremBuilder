@@ -31,4 +31,23 @@ A CLI-based dummy data generator with support for structured file formats, custo
   ```bash
   ./LoremBuilder.exe
   ```
-## 
+## Usage of the app
+
+- Enter the name or the output file path.
+- Example if you want the output file to be saved where the .exe is stored:
+```bash
+loremfile.txt
+```
+- Or if you want to store your output file somewhere else?
+```bash
+D:/your/desired/folder
+```
+- Now enter the file size:
+```bash
+600TB (or whatever you want)
+``` 
+Note: There might be some bugs, please report them by contacting me by the email of dataviation42@gmail.com (old email, but ok) ><
+
+## Contributions
+
+Contributions are highly appreciated! Please, feel free to submit a pull request.
